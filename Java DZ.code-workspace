@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "Java DZ",
+		"path": "."
+	},
+	{
+		"name": "Favicon",
+		"path": "../Favicon"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Java DZ"
+  }
+}
